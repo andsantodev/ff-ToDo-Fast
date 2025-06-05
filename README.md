@@ -27,25 +27,31 @@ ToDo-Fast é um aplicativo web construído com **FlutterFlow** no frontend e **F
 
 ## 🎨 Telas da Aplicação
 
+## 🎨 Desktop
+
 ### Login
 
 <img src="https://github.com/user-attachments/assets/73f3df9c-72a9-4af6-9ef9-0992c7639594" alt="login" width="700"/>
 
 ### Home
 
-<img src="https://github.com/user-attachments/assets/07ef63f1-8df1-45d8-bcc0-045a007e4d83" alt="login" width="700"/>
+<img src="https://github.com/user-attachments/assets/07ef63f1-8df1-45d8-bcc0-045a007e4d83" alt="home" width="700"/>
 
 ### Criar tarefa
 
-<img src="https://github.com/user-attachments/assets/e4218161-ffc3-4481-9b21-976743ab85cf" alt="login" width="700"/>
+<img src="https://github.com/user-attachments/assets/e4218161-ffc3-4481-9b21-976743ab85cf" alt="criar tarefa" width="700"/>
 
 ### Editar tarefa
 
-<img src="https://github.com/user-attachments/assets/b4c0c261-e18f-46a9-9fee-53551b59e6d7" alt="login" width="700"/>
+<img src="https://github.com/user-attachments/assets/b4c0c261-e18f-46a9-9fee-53551b59e6d7" alt="editar tarefa" width="700"/>
 
 ### Excluir tarefa (confirmação)
 
-<img src="https://github.com/user-attachments/assets/68e10bb2-cf3d-4ef0-af7b-08073c4206de" alt="login" width="700"/>
+<img src="https://github.com/user-attachments/assets/68e10bb2-cf3d-4ef0-af7b-08073c4206de" alt="excluir tarefa" width="700"/>
+
+## 🎨 Mobile
+
+<img src="https://github.com/user-attachments/assets/47ee4394-9410-426f-a648-ea73384a089f" alt="mobile login" width="200"/>  <img src="https://github.com/user-attachments/assets/839cae6e-1d5f-4169-bbc7-21500e1301d7" alt="mobile home" width="200"/>  <img src="https://github.com/user-attachments/assets/2c7cb2dd-80a0-4eaa-a717-ae48ca0f42ac" alt="mobile criar tarefa" width="200"/>  <img src="https://github.com/user-attachments/assets/c0bcc66d-b08d-4909-9a72-bb072056d280" alt="mobile editar tarefa" width="200"/>  <img src="https://github.com/user-attachments/assets/96c58f09-4324-47ca-9f00-0455575d5a2f" alt="mobile excluir tarefa" width="200"/>
 
 ---
 
